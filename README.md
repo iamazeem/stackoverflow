@@ -1,7 +1,6 @@
 # StackOverflow Q&A
 
-[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/7670262?color=brightgreen&label=StackOverflow&logo=stackoverflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/7670262)
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](https://github.com/iamAzeem/stackoverflow/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/iamAzeem/stackoverflow/blob/master/LICENSE)
 
 This repository contains my [answers](https://stackoverflow.com/users/7670262/azeem?tab=answers) to the StackOverflow Q&A.
 
@@ -10,8 +9,9 @@ This repository contains my [answers](https://stackoverflow.com/users/7670262/az
 ## How to navigate?
 
 - Go to the `questions` folder.
-- Each subfolder represents an SO thread.
-- Each subfolder's name represents the question ID.
+- Questions are categorized according to language e.g. `cpp`, `go`, `python`.
+- Each `<language>`/subfolder represents an SO thread/question.
+- The subfolder name represents a question ID.
 - Use the question ID to nagivate to the specific question.
 
 URL: `https://stackoverflow.com/questions/`<kbd>question-id</kbd>
@@ -24,5 +24,5 @@ Please [create an issue](https://github.com/iamAzeem/stackoverflow/issues/new/ch
 
 ### How to contact me?
 
-Send me an email: azeem.sajid@gmail.com  
-Connect with me on LinkedIn: https://www.linkedin.com/in/az33msajid
+Send an email: azeem.sajid@gmail.com  
+Connect on LinkedIn: https://www.linkedin.com/in/az33msajid
