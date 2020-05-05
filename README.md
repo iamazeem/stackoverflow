@@ -3,7 +3,7 @@
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/7670262?color=brightgreen&label=StackOverflow&logo=stackoverflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/7670262)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](https://github.com/iamAzeem/stackoverflow/blob/master/LICENSE)
 
-This repository contains my answers to the StackOverflow Q&A.
+This repository contains my [answers](https://stackoverflow.com/users/7670262/azeem?tab=answers) to the StackOverflow Q&A.
 
 [![StackOverflow Flair](https://stackoverflow.com/users/flair/7670262.png?theme=dark)](https://stackoverflow.com/users/7670262/azeem)
 
