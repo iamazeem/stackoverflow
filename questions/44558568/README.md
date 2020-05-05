@@ -1,6 +1,8 @@
-## How to iterate through a QStringList? (Directory Iteration)
+## Qt (C++): How to iterate through a QStringList?
 
-SO Link: https://stackoverflow.com/questions/44558568/how-to-iterate-through-a-qstringlist
+### Directory Iteration (`cd`, `cd ..`)
+
+Link: https://stackoverflow.com/questions/44558568/how-to-iterate-through-a-qstringlist
 
 ### Directory Structure:
 ```
