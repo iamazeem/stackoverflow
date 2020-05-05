@@ -2,7 +2,7 @@
 
 ### JSON Parsing using [RapidJSON](https://github.com/Tencent/rapidjson) Library
 
-Link: https://stackoverflow.com/questions/45248182/how-to-read-json-file-using-rapidjson-and-output-to-stdstring
+Link: https://stackoverflow.com/questions/45248182/
 
 ### Test File (`test.json`):
 ```
