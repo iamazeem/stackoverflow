@@ -15,12 +15,12 @@ A non-code answer may also be found here if it is considered to have some educat
 ## How to navigate?
 
 - Go to the `questions` folder.
-- Questions are categorized according to the language/tool e.g. `cpp`, `go`, `python`.
-- Each `<language/tool>`/subfolder represents an SO thread.
+- Choose a subfolder representing a particular [category](#how-the-categorization-works) i.e. language/tool/technology.
+- Each subfolder represents an SO thread.
 - The subfolder's name represents the question ID.
-- Use this question ID to nagivate to its SO thread.
+- Use this question ID to nagivate to its SO thread on [StackOverflow](https://stackoverflow.com/).
 
-URL: `https://stackoverflow.com/questions/`<kbd>question-id</kbd>
+Format: `https://stackoverflow.com/questions/`<kbd>question-id</kbd>
 
 Example: [`https://stackoverflow.com/questions/44558568`](https://stackoverflow.com/questions/44558568/)
 
@@ -30,6 +30,14 @@ A Bountied Question's folder is marked as <kbd>(bountied)</kbd> following its <k
 ```
 /questions/<language>/<question-id> (bountied)
 ```
+
+### How the categorization works?
+
+The questions are broadly categorized according to language, tool and technology.
+
+A question of the nature `How to do <something> in <language>/<tool>?` resides under its respective language/tool folder e.g. `cpp`, `bash`.
+
+A question involving multiple languages, tools and technologies such as QML (Qt/C++), WebAssembly (C++/JavaScript), etc. may be found under its respective technology folder e.g. `qml`, `webassembly`.
 
 ## Want to suggest an improvement?
 
