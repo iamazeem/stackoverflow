@@ -1,6 +1,6 @@
 ## HAProxy 1.5 - Serving static json file on 504 error
 
-### Custom Messasge (JSON) on HTTP 504 (Gateway Timeout)
+### `errorfile`: JSON Message on [HTTP 504 (Gateway Timeout)](https://httpstatuses.com/504)
 
 Link: https://stackoverflow.com/questions/61485269/
 
