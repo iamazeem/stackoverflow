@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WASM Test Page</title>
+</head>
+<body>
+
+<script src="a.out.js"></script>
+<script>
+"use strict";
+
+Module.onRuntimeInitialized = _ => {
+    const fib = Module.cwrap('fib', 'number', ['number']);
+
+    try {
+        console.log(fib(10));
+        console.log(fib(14));
+    }
+    catch ( e ) {
+        console.error(e);
+     }
+};
+
+</script>
+
+</body>
+</html>
