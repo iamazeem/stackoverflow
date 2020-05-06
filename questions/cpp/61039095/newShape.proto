@@ -1,0 +1,26 @@
+syntax = "proto2";
+
+package myProject.protobuf;
+
+message NewShape {
+
+  message Polygon
+  {
+    enum PolygonType {
+      POLY_TYPE_OUTER = 1;
+      POLY_TYPE_INNER = 2;
+    };
+
+    optional PolygonType type = 1 [default = POLY_TYPE_OUTER];
+
+    // x, y coordinates
+    repeated uint32 point     = 2 [packed = true];
+  }
+
+  message Shape
+  {
+    repeated Polygon polygon  = 1;
+  }
+
+  repeated Shape shape = 2;
+}
