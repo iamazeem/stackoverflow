@@ -4,7 +4,7 @@
 
 Link: https://stackoverflow.com/questions/61095334/
 
-### Prequisites
+### Prerequisites
 
 - Qt/QML (Tested with Qt 5.14.0)
 
