@@ -2,7 +2,7 @@
 
 ### Partial/Complete Match of Substrings with Number of Matches
 
-Link: https://stackoverflow.com/questions/47131996/go-how-to-check-if-a-string-contains-multiple-substrings
+Link: https://stackoverflow.com/questions/47131996/
 
 ### Output:
 ```
